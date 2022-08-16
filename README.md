@@ -1,4 +1,6 @@
 # Create T3 App
+Run 'npm i' to install required packages
+Run 'npm run dev' to start server
 
 This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
 
